@@ -56,6 +56,7 @@ I'm working on [Foundry](https://github.com/CodeChain-io/foundry), a programmabl
 
 ### Articles
 - [Adapting BLS Signature Aggregation to CodeChain Foundry](https://medium.com/codechain/adapting-bls-signature-aggregation-to-codechain-foundry-7767d6656e5b)
+
 ### Speeches
 - [CodeChain TeckTalk - March 2020](https://www.youtube.com/watch?v=dL-rKQJ3H2o&t=4s)
 
